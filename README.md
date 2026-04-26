@@ -19,7 +19,3 @@ T = T_hover (1 + a_z / g)
 
 a_z = Kp·e + Kd·vz + Ki·∫e
 
-## How to Run
-
-```bash
-ros2 run px4_control hover_node
